@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kartikeya Sorout</h1>
 <h3 align="center">A passionate Computer Science and Engineering student from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeyasorout&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeyasorout" /> </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikeyasorout" alt="kartikeyasorout" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KartikeyaSorout](https://github.com/KartikeyaSorout)
 
